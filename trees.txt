@@ -3,5 +3,6 @@
   pine,
   Maple,
   Tulip,
-  Sandbush
+  Sandbush,
+  Cherry
 }
